@@ -1,16 +1,16 @@
 {
-  "banners": [
-    {
-      "id": "1",
-      "imageUrl": "https://ghproxy.net/https://raw.githubusercontent.com/fenghua0014/alianmeishe/main/banner1.jpg",
-      "link": "",
-      "text": ""
-    },
-    {
-      "id": "2",
-      "imageUrl": "https://ghproxy.net/https://raw.githubusercontent.com/fenghua0014/alianmeishe/main/banner2.jpg",
-      "link": "",
-      "text": ""
-    }
-  ]
+   "banners": [
+     {
+       "id": "1",
+       "imageUrl": "https://raw.githubusercontent.com/fenghua0014/alianmeishe/main/banner1.jpg",
+       "link": "",
+       "text": ""
+     },
+     {
+       "id": "2",
+       "imageUrl": "https://raw.githubusercontent.com/fenghua0014/alianmeishe/main/banner2.jpg",
+       "link": "",
+       "text": ""
+     }
+   ]
 }
